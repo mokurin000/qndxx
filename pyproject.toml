@@ -8,8 +8,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-Pillow-SIMD = "^9.0.0.post1"
 requests = "^2.28.2"
+pillow-simd = "^9.0.0.post1"
 
 
 [build-system]

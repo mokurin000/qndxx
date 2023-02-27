@@ -8,7 +8,7 @@ Pillow 裁剪和缩放用例
 
 1. 进入答题界面并截图，移动到“base.png”k
 
-2. 修改 `Config` 类中相关参数（同大小截图不需要修改）
+2. 修改 `main.py` 中相关参数（同大小截图不需要修改）
 
 3. 运行 `python main.py` 得到 `output.png`
 
