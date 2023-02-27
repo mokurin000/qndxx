@@ -10,8 +10,6 @@ cover_height = 2012
 info_url = "https://service-0wsl5m13-1256946954.cd.apigw.tencentcs.com/release/qndxx"
 
 
-# cover width = width of base.png
-
 def main():
     base = Image.open("base.png")
     cover_url = requests.get(info_url).json()["dxx_img"]
