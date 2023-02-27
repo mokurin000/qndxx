@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "qndxx"
+version = "0.1.0"
+description = ""
+authors = ["poly000"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Pillow-SIMD = "^9.0.0.post1"
+requests = "^2.28.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

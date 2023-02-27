@@ -1,0 +1,2 @@
+pillow-simd==9.0.0.post1 ; python_version >= "3.10" and python_version < "4.0" \
+    --hash=sha256:918541cfaa90ba3c0e1bae5da31ba1b1f52b09c0009bd90183b787af4e018263
